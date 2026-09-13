@@ -3,6 +3,8 @@
 Commodore 64 VIC-II blue theme for [Omarchy](https://omarchy.org).
 Palette from VICE Pepto PAL (`pepto-pal.vpl`).
 
+![./preview.png](./preview.png)
+
 ## Install
 
 ```bash
