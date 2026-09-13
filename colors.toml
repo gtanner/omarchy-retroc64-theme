@@ -1,0 +1,35 @@
+mode = "dark"
+
+# VIC-II Pepto PAL (VICE pepto-pal.vpl) — RetroC64
+# Screen blue bg + white text. ANSI blue = light blue so eza dates/dirs stay visible.
+accent = "#6C5EB5"
+selection = "#21184A"
+muted = "#959595"
+
+background = "#352879"
+dark_background = "#21184A"
+darker_background = "#000000"
+lighter_background = "#433990"
+
+foreground = "#FFFFFF"
+dark_foreground = "#6C6C6C"
+light_foreground = "#959595"
+bright_foreground = "#FFFFFF"
+
+hyprland_active_border = "rgb(6C5EB5)"
+
+red = "#9A6759"
+yellow = "#B8C76F"
+orange = "#6F4F25"
+green = "#9AD284"
+cyan = "#70A4B2"
+blue = "#6C5EB5"
+magenta = "#6F3D86"
+brown = "#433900"
+
+bright_red = "#9A6759"
+bright_yellow = "#B8C76F"
+bright_green = "#9AD284"
+bright_cyan = "#70A4B2"
+bright_blue = "#6C5EB5"
+bright_magenta = "#6F3D86"
